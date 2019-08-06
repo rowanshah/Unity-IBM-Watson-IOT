@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Start.unity
+    guid: 772a3fbd5706b40e7bf4010073489cf8
+  - enabled: 0
+    path: Assets/Scenes/Demo 1a.unity
+    guid: f1205707dbda34752a0f5e5d14eef461
+  - enabled: 0
+    path: Assets/Scenes/Video scene.unity
+    guid: 5cd650d321ce34f13ac48e89d673b2d0
+  - enabled: 0
+    path: Assets/Scenes/interaction_1/show_jigsaw.unity
+    guid: 12f9fc07c324c428eb37be7f823b0908
+  - enabled: 0
+    path: Assets/Scenes/interaction_1/select_jigsaw.unity
+    guid: 22b8737994fdb4d85bd0e73e310a44d0
+  - enabled: 0
+    path: Assets/Scenes/interaction_1/create_jigsaw.unity
+    guid: 47327ba103081b34a88b128e6c724424
+  - enabled: 0
+    path: Assets/Scenes/interaction_2/put_jigsaw_together(working).unity
+    guid: 0f8f46894525d4237aa710e133f576ec
+  - enabled: 0
+    path: Assets/Scenes/interaction_2/put_jigsaw_together.unity
+    guid: ff0a3487b06364223aefa0f05b503ce3
+  - enabled: 0
+    path: Assets/Scenes/interaction_3/put_jigsaw_together(working).unity
+    guid: b288a9ce16a684c03928692ff694fc02
+  - enabled: 1
+    path: Assets/Scenes/interaction_2/completed_jigsaw.unity
+    guid: 88a107a79a60a490a95a85e20634b5fd
+  - enabled: 1
+    path: Assets/Scenes/VideoScene/ClipLoader.unity
+    guid: 3f9ee3aaf96df412c9c999890171a211
+  m_configObjects: {}
